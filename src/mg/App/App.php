@@ -12,7 +12,7 @@ namespace App;
 
 /**
  * Application sample      
- *
+ *  
  * @category SampleCiWithPhp
  * @package  App
  * @author   Marcelo Gornstein <marcelog@gmail.com>
