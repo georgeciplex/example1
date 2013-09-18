@@ -8,7 +8,7 @@
  * @license  http://marcelog.github.com/ Apache License 2.0
  * @link     http://marcelog.github.com/
  */
-namespace App;
+namespace App; 
 
 /**
  * Application sample      
