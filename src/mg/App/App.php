@@ -3,7 +3,7 @@
  * My Application sample
  *
  * @category SampleCiWithPhp
- * @package  App
+ * @package  App 
  * @author   Marcelo Gornstein <marcelog@gmail.com>
  * @license  http://marcelog.github.com/ Apache License 2.0
  * @link     http://marcelog.github.com/
