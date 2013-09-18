@@ -11,7 +11,7 @@
 namespace App;
 
 /**
- * Application sample   
+ * Application sample      
  *
  * @category SampleCiWithPhp
  * @package  App
